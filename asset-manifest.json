@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/superfk/static/css/main.c374a8b0.chunk.css",
+    "main.js": "/superfk/static/js/main.61066f9e.chunk.js",
+    "main.js.map": "/superfk/static/js/main.61066f9e.chunk.js.map",
+    "runtime-main.js": "/superfk/static/js/runtime-main.b06c94eb.js",
+    "runtime-main.js.map": "/superfk/static/js/runtime-main.b06c94eb.js.map",
+    "static/js/2.0ebc03d3.chunk.js": "/superfk/static/js/2.0ebc03d3.chunk.js",
+    "static/js/2.0ebc03d3.chunk.js.map": "/superfk/static/js/2.0ebc03d3.chunk.js.map",
+    "index.html": "/superfk/index.html",
+    "precache-manifest.e4a327bb7134ae5e099e6511a2f89e0b.js": "/superfk/precache-manifest.e4a327bb7134ae5e099e6511a2f89e0b.js",
+    "service-worker.js": "/superfk/service-worker.js",
+    "static/css/main.c374a8b0.chunk.css.map": "/superfk/static/css/main.c374a8b0.chunk.css.map",
+    "static/js/2.0ebc03d3.chunk.js.LICENSE.txt": "/superfk/static/js/2.0ebc03d3.chunk.js.LICENSE.txt",
+    "static/media/GettyImages-694542042-e1586274805503.jpg": "/superfk/static/media/GettyImages-694542042-e1586274805503.7fb3e07f.jpg",
+    "static/media/f68217cb8d16716e729b3fe2c8d2b425.jpg": "/superfk/static/media/f68217cb8d16716e729b3fe2c8d2b425.161fa091.jpg",
+    "static/media/logo.svg": "/superfk/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b06c94eb.js",
+    "static/js/2.0ebc03d3.chunk.js",
+    "static/css/main.c374a8b0.chunk.css",
+    "static/js/main.61066f9e.chunk.js"
+  ]
+}
