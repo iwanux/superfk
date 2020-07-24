@@ -1,0 +1,53 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+@mixin usual-size-desktop {
+  width: 100vw;
+  height: 100vh;
+}
+
+.screenBackground{
+  @include usual-size-desktop;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-size: cover;
+
+}
+
+.screen1{
+  @include usual-size-desktop;
+  position: relative;
+  background-size: 100%;
+  z-index: 100;
+  background-position-x: center;
+}
+.screen2{
+  @include usual-size-desktop;
+  z-index: 100;
+  height: 50vh;
+}
+.screen2-section{
+  @include usual-size-desktop;
+  z-index: 100;
+  position: relative;
+  .leftDesc{
+    width: 50%;
+    opacity: 0;
+    position: fixed;
+    top: 40%;
+    color: white ;left: -18%;
+    ul{
+      list-style: none;
+    }
+  }
+}
+
+.screenTitle{
+  @include usual-size-desktop;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
